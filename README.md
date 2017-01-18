@@ -15,3 +15,6 @@ Classroom activity for front-end web dev class
     3. Menu
     4. Contact
 5. The Header or Top section of your page should now match the site according to the site.pdf file included in this project.
+
+1/17/17
+Completed the layout of the landing page.
